@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="file_00000000a5c082438c65568925ba77c8" src="https://github.com/user-attachments/assets/24aad2ec-67fb-4720-b1a8-03d8e1aa047e" />
+
 # Shawnso Electrical & Solar Consultants Website
 
 Static website package for Shawnso Electrical & Solar Consultants.
